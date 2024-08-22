@@ -1,0 +1,22 @@
+---
+namespace: autom8
+name: middleware
+version: 2024.0.0
+readme: README.md
+authors:
+- Kevin Jeffery <kevin@microknight.com>
+description: IAM Middleware installation and configuration collection
+license:
+- Apache-2.0
+tags:
+- WAS
+- ISDS
+- ISVD
+- ISDI
+- GSKit
+- JavaSDK
+dependencies: {}
+repository: https://github.com/kjeffery14/autom8
+# documentation:
+# homepage:
+# issues:
